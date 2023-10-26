@@ -1,4 +1,4 @@
-# Customer, Restaurant, and Review Management System
+# Restaurants without SQLAlchemy
 
 For this project, we are working with a Yelp-style domain, managing three models: `Restaurant`, `Customer`, and `Review`. In this system, a `Restaurant` has many `Reviews`, a `Customer` has many `Reviews`, and a `Review` belongs to both a `Customer` and a `Restaurant`. The `Restaurant`-`Customer` relationship is a many-to-many relationship.
 
